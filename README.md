@@ -1,6 +1,6 @@
 # wikimode.el 
 
-Copyright (C) 2010-2024 Benjamin Leis
+Copyright (C) 2010-2026 Benjamin Leis
 
 Author: Benjamin Leis <benleis1@gmail.com>
 Created: 8 Aug 2026
